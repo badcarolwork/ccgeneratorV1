@@ -16,6 +16,6 @@ h1{
      font-family: monospace;
  }
 
- #inputSkinnerID,#copyGuide{
+ #inputSkinnerID,#copyGuide, #inputCatfishBannerID, #inputInViewBannerID {
      display: none;
  }
